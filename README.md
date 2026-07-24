@@ -13,13 +13,13 @@ outils de simulations packet tracer:
 
 vlan 10 : comptabilité
 -ordinateur 0 - 1 , port: fastethernet 0/1-2 
-- ip :192.168.1.10 - 192.168.1.11
+- ip :192.168.10.10 - 192.168.10.11
 - masque de sous-reseau:255.255.255.0
 
 
 vlan 20: Direction
 -ordinateur 2-3 , port : fastethernet 0/3-4
--ip: 192.168.1.12 - 192.168.1.13
+-ip: 192.168.20.10 - 192.168.20.11
 -masque de sous-reseau : 255.255.255.0
 
 B) configurer le commutateur
